@@ -1,2 +1,3 @@
-# static.py
-Hafattoglignocchi
+HTML = """
+Whatever you want
+"""
